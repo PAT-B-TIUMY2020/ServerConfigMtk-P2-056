@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ServiceModel;
 using ServiceMtk_P1_20180140056;
 
-namespace ServiceConfigMtk_P2_20180140056
+namespace ServerConfigMtk_P2_20180140056
 {
     class Program
     {

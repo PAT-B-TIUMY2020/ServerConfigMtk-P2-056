@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceConfigMtk-P2-20180140056", "ServiceConfigMtk-P2-20180140056\ServiceConfigMtk-P2-20180140056.csproj", "{F57FB841-A135-4205-9BA9-F7497772A32B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConfigMtk-P2-20180140056", "ServerConfigMtk-P2-20180140056\ServerConfigMtk-P2-20180140056.csproj", "{F57FB841-A135-4205-9BA9-F7497772A32B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F57FB841-A135-4205-9BA9-F7497772A32B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ServiceConfigMtk_P2_20180140056</RootNamespace>
-    <AssemblyName>ServiceConfigMtk-P2-20180140056</AssemblyName>
+    <RootNamespace>ServerConfigMtk_P2_20180140056</RootNamespace>
+    <AssemblyName>ServerConfigMtk-P2-20180140056</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
